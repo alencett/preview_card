@@ -1,0 +1,22 @@
+body {
+    background-color: hsl(30, 38%, 92%);
+}
+
+.container {
+    border: 2px solid #618685;
+    border-radius: 5px;
+     background-color: #80ced6;
+    width: 90%;
+    max-width: 500px;
+    margin: auto;
+    padding: 15px 10px 10px 10px;
+  }
+
+.img-desktop {
+    position:relative;
+    width: 50%;
+    height: 20%;
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(51, 45%, 44%); }
