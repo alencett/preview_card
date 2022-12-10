@@ -54,6 +54,7 @@ body {
    border-radius: 5px;
    padding: 15px;
    margin-top: 10px;
+   transition: color 0.3s;
   }
   
   #add:hover {
